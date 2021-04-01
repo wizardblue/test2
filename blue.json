@@ -1,0 +1,11 @@
+{
+    "components": {
+        "booger": {
+            "type": "a real thing",
+            "yes": true
+        }
+    },
+    "repos": {
+        "test1": "https://github.com/wizardblue/test1"
+    }
+}
