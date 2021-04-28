@@ -3,8 +3,16 @@
         "booger": {
             "type": "a real thing",
             "yes": true
+        },
+        "component2": {
+            "name": "a_deployment_variable",
+            "description": "a_second_variable_name"
         }
     },
+    "variables": [
+        "a_deployment_variable",
+        "a_second_variable_name"
+    ],
     "repos": {
         "test1": "https://github.com/wizardblue/test1"
     }
