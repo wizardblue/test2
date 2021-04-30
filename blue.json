@@ -1,16 +1,16 @@
 {
     "components": {
         "booger": {
-            "type": "a real thing",
+            "type": "@test1.policy",
             "yes": true
         },
         "component2": {
-            "name": "a_deployment_variable",
+            "name": "$Pretty Name for UI with Good Description",
             "description": "a_second_variable_name"
         }
     },
     "variables": [
-        "a_deployment_variable",
+        "Pretty Name for UI with Good Description",
         "a_second_variable_name"
     ],
     "repos": {
