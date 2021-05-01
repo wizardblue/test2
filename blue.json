@@ -6,12 +6,12 @@
         },
         "component2": {
             "name": "$Pretty Name for UI with Good Description",
-            "description": "a_second_variable_name"
+            "description": "$Variable 2"
         }
     },
     "variables": [
         "Pretty Name for UI with Good Description",
-        "a_second_variable_name"
+        "Variable 2"
     ],
     "repos": {
         "test1": "https://github.com/wizardblue/test1"
